@@ -1,0 +1,9 @@
+Anacondaとは、pythonでデータ分析をする上で必要なパッケージをまとめてくれているディストリビューションです。
+Pythonのバージョン切り替えやパッケージ管理もできる。
+
+ここからダウンロード
+https://www.anaconda.com/distribution/
+
+bace環境のPythonバージョンがAnacondaに含まれるデフォルトPythonバージョンとなる。
+macデフォルトのPython2.7からのバージョンの切り替えなどは必要無い。
+pip等も含まれているのでインストールする必要は無い。
